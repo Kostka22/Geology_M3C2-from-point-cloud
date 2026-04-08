@@ -701,4 +701,4 @@ https://doi.org/10.1016/j.isprsjprs.2013.04.009
 
 ---
 
-*M3C2 Tool · CHECKPOINT 13 · Samuel Lebó · GEOsys s.r.o.*
+*M3C2 Tool · CHECKPOINT 13 · Samuel Lebó *
