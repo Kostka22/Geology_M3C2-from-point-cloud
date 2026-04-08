@@ -1,6 +1,6 @@
 # M3C2 Tool — CHECKPOINT 13
 
-**Author:** Samuel Lebó · GEOsys s.r.o., Bratislava  
+**Author:** Samuel Lebó , Bratislava  
 **Language:** Python 3.11  
 **Repository:** [github.com/Kostka22/Geology_M3C2-from-point-cloud](https://github.com/Kostka22/Geology_M3C2-from-point-cloud)
 
