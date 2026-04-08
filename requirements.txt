@@ -1,0 +1,13 @@
+py4dgeo
+laspy[laszip]
+numpy
+scipy
+matplotlib
+plotly
+geopandas
+shapely
+rasterio
+pyproj
+pykrige
+psutil
+reportlab
