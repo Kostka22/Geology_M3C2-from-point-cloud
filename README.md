@@ -281,7 +281,6 @@ Third-party licenses: [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md)
 
 **Samuel Lebó**  
 Geodesy and Cartography, STU SvF Bratislava  
-GEOsys s.r.o., Bratislava  
 
 Supervisor: Ing. Tibor Lieskovský, PhD.  
 In cooperation with: ŠGÚDŠ (Štátny geologický ústav Dionýza Štúra)
