@@ -261,7 +261,6 @@ Geology_M3C2-from-point-cloud/
 |---|---|---|
 | Kykulá (Machnáč) | LLS MB1 vs MB2 | Primary landslide monitoring |
 | Veľká Čausa | MB1, MB2, UAV, TLS | Multi-sensor comparison |
-| Staromestská ul., Bratislava | LLS reference | Accuracy assessment |
 
 Data source: ÚGKK SR national ALS cycles (MB1/MB2), ŠGÚDŠ cooperation.
 
