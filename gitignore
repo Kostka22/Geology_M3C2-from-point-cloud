@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files — large point clouds not tracked in git
+*.las
+*.laz
+*.LAS
+*.LAZ
+
+# Output files — generated, not tracked
+*.tif
+*.tiff
+*_report.pdf
+*_histogram.png
+*_windrose_*.png
+*_quiver*.png
+*_quiver*.html
+*_profile*.png
+batch_stats.csv
+batch_stats_analyza.xlsx
+
+# Session files — user-specific, not tracked by default
+# (uncomment the next line to exclude all session JSONs)
+# *.json
+
+# Logs
+*.log

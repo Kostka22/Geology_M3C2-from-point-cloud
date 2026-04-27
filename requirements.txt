@@ -1,0 +1,34 @@
+# M3C2 Tool — CHECKPOINT 14
+# Requirements
+# Install with: pip install -r requirements.txt
+#
+# For PDAL engine support, install pdal separately:
+#   conda install -c conda-forge pdal python-pdal
+#   (pip install is not available on all platforms)
+
+# ── Core (required) ──────────────────────────────────────────────────
+py4dgeo
+laspy[lazrs]
+numpy
+scipy
+matplotlib
+
+# ── Raster export (recommended) ──────────────────────────────────────
+rasterio
+pyproj
+
+# ── Vector / GeoPackage export ───────────────────────────────────────
+geopandas
+shapely
+
+# ── PDF report ───────────────────────────────────────────────────────
+reportlab
+
+# ── Batch Excel auto-populate ────────────────────────────────────────
+openpyxl
+
+# ── Kriging interpolation (optional raster method) ───────────────────
+pykrige
+
+# ── System info in PDF report ────────────────────────────────────────
+psutil
