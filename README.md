@@ -166,8 +166,6 @@ Results are written next to the output `.laz` file.
 | Registration error | 0.0 – 0.1 m | Instrument/registration accuracy, used in LoD formula |
 | Confidence level | 0.95 | 95% standard; 99% available |
 
-> For a detailed parameter selection methodology, see the companion HTML cheat sheet in this repository.
-
 ---
 
 ## Output Files Reference
